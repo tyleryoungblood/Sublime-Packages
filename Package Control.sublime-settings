@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CSScomb",
+		"Emmet",
+		"GitGutter",
+		"Sass",
+		"SASS Snippets",
+		"SassBeautify",
+		"Seti_UI",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint"
+	]
+}
