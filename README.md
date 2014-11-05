@@ -5,4 +5,4 @@ Provides a way to keep my ST3 packages and plugins in sync across all my compute
 
 - install Sublime Text
 - navigate via command prompt to ST3 User Preferences (c:\Users\username\AppData\Roaming\Sublime Text 3\Packages\User\)
-- run git clone
+- run git clone https://github.com/tyleryoungblood/Sublime-Packages.git
